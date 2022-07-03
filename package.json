@@ -1,0 +1,15 @@
+{
+  "name": "compare",
+  "version": "1.0.0",
+  "description": "Calculates the percentage of difference among two profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakesh D",
+  "license": "ISC",
+  "dependencies": {
+    "fuzzball": "^2.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
